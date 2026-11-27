@@ -1,0 +1,13 @@
+Parameter,Setting,Numeric_Value,Mean_Wait,SD_Wait,Mean_Util,SLA_Pass
+Arrival Rate,-19%,80.0,34.24,19.23,78.31,False
+Arrival Rate,Baseline (0%),100.0,97.21,29.87,92.41,False
+Arrival Rate,+19%,120.0,163.07,29.56,94.01,False
+Arrival Rate,+39%,140.0,250.21,32.42,95.37,False
+Mean Service Time,3.0 min,3.0,17.11,11.83,71.15,False
+Mean Service Time,4.0 min,4.0,97.21,29.87,92.41,False
+Mean Service Time,5.0 min,5.0,187.04,40.98,94.48,False
+Mean Service Time,6.0 min,6.0,287.51,37.82,95.88,False
+Server Count,1 Tech,1.0,498.72,58.68,97.81,False
+Server Count,2 Techs,2.0,97.21,29.87,92.41,False
+Server Count,3 Techs,3.0,7.22,4.45,63.0,False
+Server Count,4 Techs,4.0,1.28,0.65,48.1,True

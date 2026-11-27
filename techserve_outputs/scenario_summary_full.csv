@@ -1,0 +1,6 @@
+Scenario,Avg Wait (min) Mean,Avg Wait (min) SD,Avg Wait (min) Min,Avg Wait (min) Max,Avg System Time (min) Mean,Avg System Time (min) SD,Avg System Time (min) Min,Avg System Time (min) Max,Utilization (%) Mean,Utilization (%) SD,Utilization (%) Min,Utilization (%) Max,Max Queue Length Mean,Max Queue Length SD,Max Queue Length Min,Max Queue Length Max,Tickets Served Mean,Tickets Served SD,Tickets Served Min,Tickets Served Max,Tickets Deflected Mean,Tickets Deflected SD,Tickets Deflected Min,Tickets Deflected Max
+Scenario 0: Baseline (2 Techs),89.13,27.02,39.51,143.0,93.13,27.22,43.14,147.54,90.9,3.96,79.36,96.7,90.5,20.72,53,132,430.03,22.35,378,467,0.0,0.0,0,0
+Scenario 1: +1 FTE (3 Techs),7.57,4.63,2.12,23.33,11.55,4.68,5.99,27.44,63.24,4.57,54.92,73.75,22.27,8.86,9,48,429.5,26.63,384,485,0.0,0.0,0,0
+Scenario 2: 2 Techs + AI Chatbot (30%),15.45,8.93,2.41,37.78,19.47,9.07,6.24,42.03,68.69,4.99,56.69,78.4,24.27,9.99,7,43,308.9,18.22,268,341,128.93,11.58,108,158
+Scenario 3: Staggered Shifts (1/3/1/3/1),33.57,24.75,6.46,105.67,37.62,24.87,10.04,110.04,89.02,4.54,77.23,96.71,36.63,16.46,14,75,434.0,28.26,375,483,0.0,0.0,0,0
+Scenario 4: AI Chatbot + Staggered Shifts,4.12,2.71,1.39,11.37,8.15,2.89,5.01,16.1,66.24,4.95,56.26,75.55,10.4,4.34,5,22,311.0,17.14,274,348,124.47,13.51,102,158
